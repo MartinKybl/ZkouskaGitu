@@ -1,10 +1,6 @@
-111
-aaa aaa aaa
-333
-444
-555
-666 666 666 666 666 666 666 666 666
-777
-888
-bbb bbb bbb
+if a == "a":
+	print("Alpha")
+
+else:
+	print("Else")
 
