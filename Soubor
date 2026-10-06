@@ -1,5 +1,6 @@
-111
-aaa aaa aaa
-333
+if a == "a":
+	print("Alpha")
 
+else:
+	print("Else")
 
